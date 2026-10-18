@@ -7,12 +7,12 @@
 
 - 🔭 I’m currently working on [Coffee-Sales-Dashboard](https://github.com/BBhaveshkumar/Coffee-Sales-Dashboard-)
 - 🌱 I’m currently deepening my skills in **Python, backend development and database design**
-- 👨‍💻 All of my projects are available at [https://linktr.ee/BBhaveshkumar](https://linktr.ee/BBhaveshkumar)
-- 📫 How to reach me: **mrbhaveshkumarr@gmail.com**
+- 👨‍💻 All of my projects are available at [[https://linktr.ee/BBhaveshkumar](https://linktr.ee/BBhaveshkumar)](https://linktr.ee/Bhavesh.kumar)
+- 📫 How to reach me: **90bhaveshkumar@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://www.linkedin.com/in/bhavesh-kumar-768890393/" target="_blank" rel="noreferrer">
+  <a href="[https://www.linkedin.com/in/bhavesh-kumar-768890393/" target=](https://www.linkedin.com/in/bhavesh-kumar-768890393/)"_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="linkedin" width="40" height="40"/>
   </a>
 </p>
